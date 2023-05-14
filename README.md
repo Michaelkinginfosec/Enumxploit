@@ -39,3 +39,7 @@ Please exercise caution and ensure that you are legally and ethically authorized
 
 The Enumxploit script is provided for educational and informational purposes only. The authors and contributors of this script are not responsible for any misuse, damages, or illegal activities resulting from its usage. Use this script at your own risk.
 
+## Credit
+
+The Linux Exploit Suggester tool, an integral part of enumxploit, was developed by Z-Labs. We extend our gratitude to the  Z-Labs team for creating this valuable tool that helps identify potential exploits based on known vulnerabilities in Linux systems. The integration of Linux Exploit Suggester in enumxploit significantly enhances the privilege escalation capabilities and contributes to the overall effectiveness of the script.
+
